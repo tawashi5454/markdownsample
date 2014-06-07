@@ -9,10 +9,14 @@ Paragraph text here
 
 This is a sample repo to learn about writing tools on Github. Based on [Webcast • Writing Tools on the GitHub Platform](https://www.youtube.com/watch?v=p8yKoPaDqiA).
 
+### Ruby
+
 ```ruby
 puts "this is code"
 if this then that
 ```
+
+### HTML
 
 ```HTML
 <!DOCTYPE html>
@@ -26,6 +30,8 @@ if this then that
   </body>
 </html>
 ```
+
+### CSS
 
 ```css
 .selector,
