@@ -7,9 +7,9 @@
 
 Paragraph text here
 
-This is a sample to check out writing tools on Github. Based on [Webcast • Writing Tools on the GitHub Platform](https://www.youtube.com/watch?v=p8yKoPaDqiA).
+This is a sample repo to learn about writing tools on Github. Based on [Webcast • Writing Tools on the GitHub Platform](https://www.youtube.com/watch?v=p8yKoPaDqiA).
 
-```
+```ruby
 puts "this is code"
 if this then that
 ```
