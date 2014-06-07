@@ -13,3 +13,17 @@ This is a sample repo to learn about writing tools on Github. Based on [Webcast 
 puts "this is code"
 if this then that
 ```
+
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page title</title>
+  </head>
+  <body>
+    <img src="images/company-logo.png" alt="Company">
+    <h1 class="hello-world">Hello, world!</h1>
+  </body>
+</html>
+```
+
