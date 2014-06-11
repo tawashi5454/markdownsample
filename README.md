@@ -83,5 +83,18 @@ _Everyone **must** attend the meeting at 5 o'clock today._
 2. Item 2
 3. Item 3
 
+## GitHub Flavored Markdown or GFM
+
+It differs from standard Markdown (SM)
+
+### GFM ignores multiple underscores in words
+
+perform_complicated_task
+
+do_this_and_do_that_and_anothoer_thing
+
+
+
+
 
 
