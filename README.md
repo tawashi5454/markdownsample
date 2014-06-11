@@ -143,5 +143,12 @@ First header | Second header
 This cell gonna be really really long | Cell 2
 Cell 3 | Cell 4
 
+Alignment
+
+First header | Second header | Third header
+:------------|:-------------:|------------:
+Cell 1       | Cell 2        | Cell 3
+Cell 4       | Cell 5        | Cell 6
+
 
 
