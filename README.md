@@ -97,8 +97,33 @@ do_this_and_do_that_and_anothoer_thing
 
 ~~Mistaken text.~~
 
+### Code blocks
 
+Traditional way: four spaces
 
+    function test() {
+      console.log("notice the blank line before this function?");
+    }
 
+Using ```
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+Use eight spaces to indent code block
+
+* Function A
+
+        function a() {
+          console.log("a");
+        }
+
+* Function B
+
+        function b() {
+          console.log("b");
+        }
 
