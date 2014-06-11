@@ -73,7 +73,6 @@ _Everyone **must** attend the meeting at 5 o'clock today._
 * Item 1
 * Item 2
 * Item 3
-
 - Other item 1
 - Other item 2
 - Other item 3
