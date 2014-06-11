@@ -127,3 +127,21 @@ Use eight spaces to indent code block
           console.log("b");
         }
 
+### Tables
+
+Basic
+
+First header | Second header
+-------------|--------------
+Cell 1       | Cell 2
+Cell 3       | Cell 4
+
+This is acceptable
+
+First header | Second header
+---|---
+This cell gonna be really really long | Cell 2
+Cell 3 | Cell 4
+
+
+
