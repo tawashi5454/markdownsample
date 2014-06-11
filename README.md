@@ -93,6 +93,10 @@ perform_complicated_task
 
 do_this_and_do_that_and_anothoer_thing
 
+### Strikethrough
+
+~~Mistaken text.~~
+
 
 
 
