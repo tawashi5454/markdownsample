@@ -158,5 +158,17 @@ Looks that doesn't work?
 Roses are red
 Violets are blue
 
+### Task lists
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported 
+- [x] list syntax is required (any unordered or ordered list supported) 
+- [x] this is a complete item 
+- [ ] this is an incomplete item
+
+- [ ] Taks 1
+  - [x] Sub task 1
+  - [ ] Sub taks 2
+- [ ] Task 2
+
 
 
