@@ -170,5 +170,11 @@ Violets are blue
   - [ ] Sub taks 2
 - [ ] Task 2
 
+### References
+
+Certain references are auto-linked!
+
+* SHA: 1bee78a40c92b2dc56a2f4883b909e897e391b4d
+* #Num: #2
 
 
