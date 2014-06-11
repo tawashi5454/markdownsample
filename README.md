@@ -176,5 +176,6 @@ Certain references are auto-linked!
 
 * SHA: 1bee78a40c92b2dc56a2f4883b909e897e391b4d
 * #Num: #2
-
+* User#Num: tawashi5454#2
+* User/Projet#Num: tawashi5454/markdownsample#2
 
