@@ -66,5 +66,5 @@ In the words of Abraham Lincoln:
 
 **Everyone _must_ attend the meeting at 5 o'clock today.**
 
-_Everyone *must* attend the meeting at 5 o'clock today._
+_Everyone **must** attend the meeting at 5 o'clock today._
 
