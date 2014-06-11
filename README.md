@@ -62,8 +62,9 @@ In the words of Abraham Lincoln:
 
 *This text will be italic*
 
-**This text will be bold*
+**This text will be bold**
 
 **Everyone _must_ attend the meeting at 5 o'clock today.**
 
+*Everyone _must_ attend the meeting at 5 o'clock today.*
 
