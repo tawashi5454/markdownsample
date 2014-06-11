@@ -9,6 +9,14 @@ Paragraph text here
 
 This is a sample repo to learn about writing tools on Github. Based on [Webcast • Writing Tools on the GitHub Platform](https://www.youtube.com/watch?v=p8yKoPaDqiA).
 
+## Other resources
+
+* [Github Help - Markdown Basics](https://help.github.com/articles/markdown-basics)
+* [Github Help - GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+* [Github Help - Writing on GitHub](https://help.github.com/articles/writing-on-github)
+
+## Syntax highlighting
+
 ### Ruby
 
 ```ruby
@@ -43,3 +51,19 @@ if this then that
   box-shadow: 0 1px 2px #ccc, inset 0 1px 0 #fff;
 }
 ```
+
+## Blockquotes
+
+In the words of Abraham Lincoln:
+
+> Pardon my french
+
+## Bold and italic
+
+*This text will be italic*
+
+**This text will be bold*
+
+**Everyone _must_ attend the meeting at 5 o'clock today.**
+
+
